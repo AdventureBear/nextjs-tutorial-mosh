@@ -42,3 +42,4 @@ export const UserTable = async ({sortOrder}:Props) => {
         </table>
     )
 }
+
